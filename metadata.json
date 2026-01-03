@@ -1,0 +1,5 @@
+{
+  "name": "X/O Master",
+  "description": "A modern, scalable, and premium Tic-Tac-Toe application with single-player AI, local multiplayer, and online multiplayer (UI placeholder).",
+  "requestFramePermissions": []
+}
